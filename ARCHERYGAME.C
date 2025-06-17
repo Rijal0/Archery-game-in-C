@@ -1,9 +1,7 @@
 
 /*-------------------------------------------------------------
   Project Title: Archery Game in C (Turbo C++)
-  Developed by : Susan Rijal
-  Submission To: [Kuleswor Awas Campus,kathmandu,Nepal]
-                 [Mr.Narayan GC Sir]
+  Developed by : rizal
   Description  : A graphical archery shooting game with score
                  tracking using Turbo c++
 -------------------------------------------------------------*/
